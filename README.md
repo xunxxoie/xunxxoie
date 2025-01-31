@@ -42,5 +42,10 @@
 <br>
 <div align=center>
     
-![xunxxoie's github stats](https://github-readme-stats.vercel.app/api?username=xunxxoie&show_icons=true)
+![xunxxoie's github stats](https://github-readme-stats.vercel.app/api?username=xunxxoie&show_icons=true&theme=tokyonight)
+
+<br>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xunxxoie&layout=compact&theme=onedark)
+
 </div>
