@@ -19,8 +19,8 @@
 </p>
 <br>
 <p align="center">
-    <Strong>⚒️Tech Stack⚒️</Strong><br>
-    💡usually use it and I'm most confident.
+    <Strong>⚒️Tech Stack⚒️</Strong><br><br>
+    💡usually use it and I'm most confident.<br>
 </p>
 <p align="center" display="inline-block">
     <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white">
@@ -30,7 +30,7 @@
     <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white">
 </p><br>
 <p align="center">
-    💡used at least once
+    <Strong>💡used at least once</Strong>
 </p>
 <p align="center" display="inline-block">
     <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
@@ -40,6 +40,10 @@
     <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 </p>
 <br>
+<br>
+<p align="center">
+    <Strong>🌱 My Growth Log 🌱</Strong>
+</p>
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=xunxxoie&show_icons=true&theme=tokyonight" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xunxxoie&theme=onedark&layout=compact" />
