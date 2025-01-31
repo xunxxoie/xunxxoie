@@ -40,12 +40,7 @@
     <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 </p>
 <br>
-<div align=center>
-    
-![xunxxoie's github stats](https://github-readme-stats.vercel.app/api?username=xunxxoie&show_icons=true&theme=tokyonight)
-
-<br>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xunxxoie&layout=compact&theme=onedark)
-
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=xunxxoie&show_icons=true&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xunxxoie&theme=onedark&layout=compact" />
 </div>
