@@ -8,7 +8,7 @@
 ## ⚒️ Tech Stack ⚒️
 
 <p align="left" display="inline-block">
-    <b>Framework<b/><br>
+    <b>Language & Framework<b/><br>
     <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
     <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"><br>
 </p>
